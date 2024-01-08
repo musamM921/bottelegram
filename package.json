@@ -1,0 +1,20 @@
+{
+  "name": "front-end-interview-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon your_app_file.js"
+  },
+  "author": "Musa Mishiyev",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "grammy": "^1.19.2",
+    "random-js": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
